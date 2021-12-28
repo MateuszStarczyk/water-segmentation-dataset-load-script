@@ -1,7 +1,6 @@
-import array
 import os
 import re
-from typing import Tuple, List
+from typing import Tuple
 
 import cv2
 import numpy as np
